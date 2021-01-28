@@ -1,6 +1,7 @@
 # Enciclopedia de filogenias de compuestos medicinales en plantas
 
 Carolina CC (cxro-cc)
+Mancilla Galván Luis Angel
 
 ## Introducción
 La diabetes mellitus es el desorden endocrino más común, afectando a más de 422 millones de personas alrededor del mundo (OMS, 2016). La prevalencia mundial de la diabetes casi se ha duplicado desde hace 4 años, pues ha pasado del 4,7% al 8,5% en la población adulta. Debido a las complicaciones ligadas a la diabetes, como problemas cardiacos, retinopatía, problemas en los riñones y neuropatías; es una causa común de morbilidad crónica y genera un deterioro para el pleno desarrollo de la vida de las personas (Andrade-Cetto y Heinnrich, 2005).
@@ -16,6 +17,7 @@ Un análisis filogenético permite establecer las relaciones cladísticas o gene
 Realizar una filogenia con base en los componentes activos de plantas presentados en el artículo [“Mexican plants with hypoglycemic effect used in the treatment of diabetes”](http://etnof.fciencias.unam.mx/P3Pub/Pdf/010.pdf) (Andrade-Cetto, 2005) e identificar posibles alternativas a dichos activos con respecto a su semejanza genética.
 
 ## Hipótesis
+Algunas plantas han sido caracterizadas con la presencia de biomoléculas con efectos terapéuticos para mamíferos, es por ello que haciendo un análisis de similitudes a nivel genético esperamos encontrar secuencias con alta concordancia, para orientar la búsqueda de nuevos organismos que compartan estas propiedades descritas para cada compuesto. 
 
 
 ## Diagrama metodológico
